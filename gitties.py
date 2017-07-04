@@ -8,3 +8,7 @@ def add(a, b):
 
 def joke():
     print("Móricka megy a buszon, de nem megy!")
+
+
+def shout():
+    print("AAAAHHh")
