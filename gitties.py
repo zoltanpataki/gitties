@@ -12,3 +12,6 @@ def joke():
 
 def shout():
     print("AAAAHHh")
+
+def shout2():
+    print("FUUUUUUUUUUUUUUUU")
